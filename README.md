@@ -42,5 +42,6 @@
 
 
 ## Resources
+ArchivesSpace at CU Boulder; United Mexican American Students (UMAS) records: https://archives.colorado.edu/repositories/2/resources/2478
 
 ## Notes
