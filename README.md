@@ -11,8 +11,6 @@ Name of the collection: CU Chicanx History Collection
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
 ### Name
-The author, writer, or creator of the document.
-### Name URI
 Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: [UMAS (Organization)](http://id.worldcat.org/fast/626784); Hannon, Mark; Vigil, Patrick J.; Marrujo, Becky 
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: [Manuscript](http://id.loc.gov/vocabulary/resourceTypes/man)
