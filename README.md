@@ -73,8 +73,6 @@ Media type(s) in this collection: application/pdf
 ### Digital Origin
 The method by which a resource achieved digital form. Origin for this collection: reformatted digital
 ### Access Condition
-This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).
-### Access Condition URI
 Information about restrictions imposed on access to a resource.
 
 Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/
