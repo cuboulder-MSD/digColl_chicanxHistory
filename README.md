@@ -1,11 +1,9 @@
 # CU Chicanx History Collection
+## Description
 This collection includes records documenting the establishment and activities of the United Mexican American Students (UMAS) student group at the University of Colorado Boulder from its founding in 1968 to 2018. Records include administrative papers relating to the organization's founding, including bylaws; budgets and fundign requests; correspondence; fliers; course materials from the university's Mexican-American Studies Program; memos and other documents from the UMAS-Equal Opportunity Program (UMAS-EOP), the Migrant Action Program (MAP), the Mexico Studies Program (also known as the Mexico Academic Program), and the UMAS summer program; newspaper clippings; organizational publications; materials from UMAS's 25th anniversary celebrations in 1993 and 50th anniversary celebrations in 2018; and other university publications.
 
 Permanent address to digital collection: []().<br /> 
 Please use the same link when sharing or citing the collection.
-
-## Description
-
 ## Metadata
 ### Collection Name
 Name of the collection: CU Chicanx History Collection
