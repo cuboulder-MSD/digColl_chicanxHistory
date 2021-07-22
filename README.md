@@ -1,4 +1,4 @@
-# CU Chicanx History Collection
+# CU Chicanx/Latinx History Collection
 ## Description
 The CU Chicanx and Latinx History Collection documents the history of Chicanx and Latinx students, staff, and faculty at the University of Colorado Boulder. The first phase of the project (2021-2022) documents the rise of El Movimiento, the Chicano struggle for social and educational justice, at the university between 1968-1974. The records included in this phase document the founding of the United Mexican American Students (UMAS) organization on campus in 1968; the development of the UMAS-Equal Opportunity Program (UMAS-EOP); the 1973-1974 financial aid crisis that culminated in UMAS leaders taking over UMAS-EOP offices in Temporary Building #1 (TB-1) in May 1974; and the deaths of “Los Seis de Boulder,” the six Chicanx students and activists who were killed by car bombs on May 27 and May 29, 1974, among other subjects.
 
